@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Deidentification:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Deidentification_jar</output-path>
+    <root id="archive" name="Deidentification.jar">
+      <element id="module-output" name="Deidentification" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-io-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
